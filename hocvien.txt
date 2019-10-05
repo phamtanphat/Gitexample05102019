@@ -1,1 +1,3 @@
 Hoc vien lop react native 05102019
+
+Thoi Gian hoc : trua t7 sang cn

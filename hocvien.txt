@@ -3,3 +3,5 @@ Hoc vien lop react native 05102019
 Thoi Gian hoc : trua t7 sang cn
 
 Thoi long hoc : 1 thang 5
+
+Dia chi : 38 nguyen lam
